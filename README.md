@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Nick 👋
 
-<!--
-**notTeo/notTeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ AUEB Athens (Semester 4/8) · Part-time ERP dev · Building in public
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently shipping:** [BOOKLY](https://github.com/notTeo/Booking-app-v2) — multi-tenant booking SaaS for salons & barbershops  
+Built with TypeScript · Node/Express · React · PostgreSQL · Prisma
+
+**Also built:** [Auth Boilerplate](https://github.com/notTeo/YOUR_REPO_LINK) — JWT + Google OAuth + Stripe + Docker
+
+---
+
+**Stack I actually use:**  
+`TypeScript` `Node.js` `React` `PostgreSQL` `Prisma` `Google Apps Script` `SQL`
+
+📍 Athens, Greece
