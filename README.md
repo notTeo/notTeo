@@ -7,7 +7,7 @@ CS student @ AUEB Athens (Semester 4/8) · Part-time ERP dev · Building in publ
 **Currently shipping:** [BOOKLY](https://github.com/notTeo/Booking-app-v2) — multi-tenant booking SaaS for salons & barbershops  
 Built with TypeScript · Node/Express · React · PostgreSQL · Prisma
 
-**Also built:** [Auth Boilerplate](https://github.com/notTeo/YOUR_REPO_LINK) — JWT + Google OAuth + Stripe + Docker
+**Also built:** [Auth Boilerplate](https://github.com/notTeo/auth-boilerplate) — JWT + Google OAuth + Stripe + Docker
 
 ---
 
